@@ -1,5 +1,5 @@
 {
- "version":"1.0.1",
+ "version":"1.0.2",
  "title":"Atualização disponível 🛠️",
  "description":"Uma nova atualização está disponível e incluí um novo estilo de ticks como padrão 👏🏻🚀",
  "download":"https://modsalfa.blogspot.com/2021/12/whatsapp-beta.html"
