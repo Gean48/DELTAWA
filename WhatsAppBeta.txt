@@ -1,5 +1,5 @@
 {
- "version":"1.10",
+ "version":"1.0.3",
  "title":"Atualização disponível 🛠️",
  "description":"Uma nova atualização está disponível e incluí um novo estilo de ticks como padrão 👏🏻🚀",
  "download":"https://t.me/s/DGModz/4"
