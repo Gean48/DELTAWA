@@ -1,6 +1,6 @@
 {
  "version":"1.11",
- "title":"Atualização disponível 🛠️",
- "description":"Uma nova atualização está disponível e incluí um novo local para o menu de configurações 👏🏻🚀",
- "download":"https://t.me/s/DGModz/7"
+ "title":"Atualização disponível v1.11F🛠️",
+ "description":"Uma nova atualização está disponível e vêm corrigindo erros 👏🏻🚀",
+ "download":"https://t.me/s/DGModz/8"
 }
