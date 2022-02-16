@@ -1,6 +1,6 @@
 {
- "version":"1.12F",
- "title":"Atualização disponível v1.12F 🛠️",
- "description":"Uma nova atualização está disponível e vêm com reações nas mensagens 👏🏻🚀",
- "download":"https://t.me/s/DGModz/12"
+ "version":"1.13",
+ "title":"Atualização disponível v1.13 🛠️",
+ "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
+ "download":"https://t.me/s/DigitalSuporte/681"
 }
