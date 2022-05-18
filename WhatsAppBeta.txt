@@ -2,5 +2,5 @@
  "version":"1.13",
  "title":"Atualização disponível v1.13 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
- "download":"https://t.me/s/DigitalSuporte/681"
+ "download":"https://xlab-temas.blogspot.com/2022/05/beta-prime.html"
 }
