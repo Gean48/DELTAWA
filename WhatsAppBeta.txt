@@ -1,6 +1,6 @@
 {
- "version":"1.15",
+ "version":"1.16",
  "title":"Atualização disponível v1.16 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
- "download":"https://t.me/s/AplicativosUteisV2/803"
+ "download":"https://bit.ly/3GnaA02"
 }
