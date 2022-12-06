@@ -1,6 +1,6 @@
 {
- "version":"1.16",
- "title":"Atualização disponível v1.16 🛠️",
+ "version":"1.17",
+ "title":"Atualização disponível v1.17 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
- "download":"https://bit.ly/3GnaA02"
+ "download":"https://t.me/s/RepositoryZ/831"
 }
