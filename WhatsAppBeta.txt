@@ -2,5 +2,5 @@
  "version":"1.19",
  "title":"Atualização disponível v1.19 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
- "download":"https://miniencurtafly.blogspot.com/2021/02/gerando-download.html#?o=97d2234db85e5832b7b893cbd39d12252e7c1855826a5978dee77815e92cf55e5ae5b84004246d02cc2b6c15a3f3b4e8a9424fab5d93ec9b442494d4f062d6de2adcbf1026d0fb8717f14ca269e6ef8bcb9692bec8b9a8c9"
+ "download":"https://bit.ly/41XE38S"
 }
