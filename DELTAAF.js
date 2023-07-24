@@ -1,5 +1,5 @@
 {
-	"version": "1.22",
+	"version": "1.33",
 	"download": "https://ymmods.net/",
 	"update": [
 		{
