@@ -4,7 +4,7 @@
 	"update": [
 		{
 			"languaje": "en",
-			"changelog": "https://raw.githubusercontent.com/Gean48/WhatsAppBeta/main/DELTACHANGELOG.html"
+			"changelog": "https://raw.githubusercontent.com/Gean48/DELTAWA/main/DELTACHANGELOG.html"
 		}
 	]
 }
